@@ -30,5 +30,5 @@ Display new columns as:
 
 [1]: https://github.com/nanego/redmine_additional_filters/actions/workflows/6_0_7.yml/badge.svg
 [2]: https://github.com/nanego/redmine_additional_filters/actions/workflows/6_1_0.yml/badge.svg
-[4]: https://github.com/nanego/redmine_additional_filters/actions/workflows/master.yml/badge.svg
+[3]: https://github.com/nanego/redmine_additional_filters/actions/workflows/master.yml/badge.svg
 [5]: https://github.com/nanego/redmine_additional_filters/actions
